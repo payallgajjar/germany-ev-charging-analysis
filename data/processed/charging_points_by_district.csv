@@ -1,0 +1,402 @@
+district,federal_state,normal_charging_points,fast_charging_points,total_charging_points
+Alb-Donau district,Baden-Württemberg,690,170,860
+Biberach district,Baden-Württemberg,244,81,325
+Böblingen district,Baden-Württemberg,1774,255,2029
+Lake Constance district,Baden-Württemberg,540,96,636
+Breisgau-Hochschwarzwald district,Baden-Württemberg,646,147,793
+Calw district,Baden-Württemberg,419,22,441
+Emmendingen district,Baden-Württemberg,617,71,688
+Enzkreis district,Baden-Württemberg,323,81,404
+Esslingen district,Baden-Württemberg,1176,210,1386
+Freudenstadt district,Baden-Württemberg,292,98,390
+Göppingen district,Baden-Württemberg,665,151,816
+Heidenheim district,Baden-Württemberg,160,75,235
+Heilbronn district,Baden-Württemberg,1009,236,1245
+Hohenlohe district,Baden-Württemberg,449,124,573
+Karlsruhe district,Baden-Württemberg,793,293,1086
+Konstanz district,Baden-Württemberg,552,166,718
+Lörrach district,Baden-Württemberg,375,123,498
+Ludwigsburg district,Baden-Württemberg,1179,254,1433
+Main-Tauber district,Baden-Württemberg,346,142,488
+Neckar-Odenwald district,Baden-Württemberg,266,73,339
+Ortenau district,Baden-Württemberg,1079,388,1467
+Ostalbkreis district,Baden-Württemberg,726,148,874
+Rastatt district,Baden-Württemberg,547,100,647
+Ravensburg district,Baden-Württemberg,858,211,1069
+Rems-Murr district,Baden-Württemberg,888,217,1105
+Reutlingen district,Baden-Württemberg,615,116,731
+Rhein-Neckar district,Baden-Württemberg,771,444,1215
+Rottweil district,Baden-Württemberg,247,102,349
+Schwäbisch Hall district,Baden-Württemberg,510,92,602
+Schwarzwald-Baar district,Baden-Württemberg,446,110,556
+Sigmaringen district,Baden-Württemberg,178,51,229
+Tübingen district,Baden-Württemberg,573,114,687
+Tuttlingen district,Baden-Württemberg,318,53,371
+Waldshut district,Baden-Württemberg,378,91,469
+Zollernalb district,Baden-Württemberg,235,67,302
+urban district of Baden-Baden,Baden-Württemberg,138,38,176
+Freiburg im Breisgau city district,Baden-Württemberg,739,161,900
+Heidelberg city district,Baden-Württemberg,724,60,784
+Heilbronn city district,Baden-Württemberg,792,64,856
+Karlsruhe city district,Baden-Württemberg,434,194,628
+Mannheim city district,Baden-Württemberg,616,250,866
+Pforzheim city district,Baden-Württemberg,260,93,353
+Stuttgart city district,Baden-Württemberg,4163,220,4383
+Ulm city district,Baden-Württemberg,530,112,642
+"Amberg, independent city",Bavaria,66,23,89
+"Ansbach, independent city",Bavaria,94,40,134
+Aschaffenburg (independent city),Bavaria,124,45,169
+"Augsburg, independent city",Bavaria,446,155,601
+Independent city of Bamberg,Bavaria,205,39,244
+Independent city of Bayreuth,Bavaria,172,88,260
+"Coburg, independent city",Bavaria,63,61,124
+"Erlangen, independent city",Bavaria,190,68,258
+Independent city of Fürth,Bavaria,471,83,554
+Independent city of Hof,Bavaria,67,35,102
+"Ingolstadt, independent city",Bavaria,1307,207,1514
+Independent city of Kaufbeuren,Bavaria,120,65,185
+Independent city of Kempten (Allgäu),Bavaria,190,95,285
+Independent city of Landshut,Bavaria,177,42,219
+Independent city of Memmingen,Bavaria,103,75,178
+Independent city of Munich,Bavaria,3240,467,3707
+"Nuremberg, independent city",Bavaria,1465,237,1702
+"Passau, independent city",Bavaria,226,112,338
+"Regensburg, independent city",Bavaria,1025,138,1163
+"Rosenheim, independent city",Bavaria,66,68,134
+Independent city of Schwabach,Bavaria,48,20,68
+Independent city of Schweinfurt,Bavaria,124,104,228
+Independent city of Straubing,Bavaria,103,41,144
+Independent city of Weiden in the Upper Palatinate,Bavaria,74,41,115
+"Würzburg, independent city",Bavaria,418,124,542
+Aichach-Friedberg district,Bavaria,142,142,284
+Altötting district,Bavaria,331,88,419
+Amberg-Sulzbach district,Bavaria,177,66,243
+Ansbach district,Bavaria,387,275,662
+Aschaffenburg district,Bavaria,355,126,481
+Augsburg district,Bavaria,284,259,543
+Bad Kissingen district,Bavaria,118,89,207
+Bad Tölz-Wolfratshausen district,Bavaria,295,70,365
+Bamberg district,Bavaria,209,104,313
+Bayreuth district,Bavaria,129,54,183
+Berchtesgadener Land district,Bavaria,318,83,401
+Cham district,Bavaria,212,97,309
+Coburg district,Bavaria,89,72,161
+Dachau district,Bavaria,207,62,269
+Deggendorf district,Bavaria,291,196,487
+Dillingen district on the Danube,Bavaria,97,48,145
+Dingolfing-Landau district,Bavaria,482,131,613
+Donau-Ries district,Bavaria,258,101,359
+Ebersberg district,Bavaria,295,122,417
+Eichstätt district,Bavaria,270,131,401
+Erding district,Bavaria,300,110,410
+Erlangen-Höchstadt district,Bavaria,232,116,348
+Forchheim district,Bavaria,190,95,285
+Freising district,Bavaria,693,190,883
+Freyung-Grafenau district,Bavaria,311,45,356
+Fürstenfeldbruck district,Bavaria,353,139,492
+Fürth district,Bavaria,199,41,240
+Garmisch-Partenkirchen district,Bavaria,296,81,377
+Günzburg district,Bavaria,252,139,391
+Haßberge district,Bavaria,113,62,175
+Hof district,Bavaria,147,111,258
+Kelheim district,Bavaria,262,64,326
+Kitzingen district,Bavaria,247,177,424
+Kronach district,Bavaria,91,25,116
+Kulmbach district,Bavaria,111,117,228
+Landsberg am Lech district,Bavaria,277,113,390
+Landshut district,Bavaria,325,93,418
+Lichtenfels district,Bavaria,61,32,93
+Lindau district (Lake Constance),Bavaria,193,90,283
+Main-Spessart district,Bavaria,233,75,308
+Miesbach district,Bavaria,288,129,417
+Miltenberg district,Bavaria,159,55,214
+Mühldorf am Inn district,Bavaria,182,104,286
+Munich district,Bavaria,1183,268,1451
+Neuburg-Schrobenhausen district,Bavaria,163,52,215
+Neumarkt district in the Upper Palatinate.,Bavaria,275,103,378
+Neustadt an der Aisch-Bad Windsheim district,Bavaria,242,70,312
+Neustadt an der Waldnaab district,Bavaria,150,71,221
+Neu-Ulm district,Bavaria,339,184,523
+Nuremberg Land district,Bavaria,246,199,445
+Oberallgäu district,Bavaria,509,185,694
+Ostallgäu district,Bavaria,465,117,582
+Passau district,Bavaria,510,166,676
+Pfaffenhofen an der Ilm district,Bavaria,240,152,392
+Regen district,Bavaria,193,59,252
+Regensburg district,Bavaria,313,214,527
+Rhön-Grabfeld district,Bavaria,112,92,204
+Rosenheim district,Bavaria,570,254,824
+Roth district,Bavaria,275,144,419
+Rottal-Inn district,Bavaria,171,75,246
+Schwandorf district,Bavaria,256,164,420
+Schweinfurt district,Bavaria,223,64,287
+Starnberg district,Bavaria,234,81,315
+Straubing-Bogen district,Bavaria,195,69,264
+Tirschenreuth district,Bavaria,141,47,188
+Traunstein district,Bavaria,400,153,553
+Unterallgäu district,Bavaria,417,162,579
+Weilheim-Schongau district,Bavaria,290,79,369
+Weißenburg-Gunzenhausen district,Bavaria,201,45,246
+Wunsiedel district in the Fichtel Mountains,Bavaria,144,43,187
+Würzburg district,Bavaria,233,147,380
+Independent city of Berlin,Berlin,6264,1273,7537
+Independent city of Brandenburg an der Havel,Brandenburg,78,60,138
+Independent city of Cottbus,Brandenburg,108,69,177
+Independent city of Frankfurt (Oder),Brandenburg,99,26,125
+"Potsdam, independent city",Brandenburg,234,55,289
+Barnim district,Brandenburg,181,186,367
+Dahme-Spreewald district,Brandenburg,164,233,397
+Elbe-Elster district,Brandenburg,61,48,109
+Havelland district,Brandenburg,169,113,282
+Märkisch-Oderland district,Brandenburg,155,115,270
+Oberhavel district,Brandenburg,235,133,368
+Oberspreewald-Lausitz district,Brandenburg,122,91,213
+Oder-Spree district,Brandenburg,740,96,836
+Ostprignitz-Ruppin district,Brandenburg,144,100,244
+Potsdam-Mittelmark district,Brandenburg,275,138,413
+Prignitz district,Brandenburg,53,26,79
+Spree-Neiße district,Brandenburg,115,24,139
+Teltow-Fläming district,Brandenburg,199,155,354
+Uckermark district,Brandenburg,174,81,255
+City of Bremen (independent city),Bremen,1139,279,1418
+Independent city of Bremerhaven,Bremen,104,74,178
+"Hamburg, independent city",Hamburg,4884,941,5825
+Independent city of Darmstadt,Hesse,282,60,342
+Independent city of Frankfurt am Main,Hesse,2018,266,2284
+"Hanau, independent city",Hesse,166,83,249
+"Kassel, independent city",Hesse,522,144,666
+Independent city of Offenbach am Main,Hesse,170,18,188
+"Wiesbaden, independent city",Hesse,1162,211,1373
+Bergstraße district,Hesse,448,211,659
+Darmstadt-Dieburg district,Hesse,464,176,640
+Fulda district,Hesse,588,164,752
+Gießen district,Hesse,418,223,641
+Groß-Gerau district,Hesse,1120,150,1270
+Hersfeld-Rotenburg district,Hesse,100,224,324
+Hochtaunus district,Hesse,322,94,416
+Kassel district,Hesse,453,242,695
+Lahn-Dill district,Hesse,267,271,538
+Limburg-Weilburg district,Hesse,253,172,425
+Main-Kinzig district,Hesse,439,289,728
+Main-Taunus district,Hesse,405,229,634
+Marburg-Biedenkopf district,Hesse,354,157,511
+Odenwald district,Hesse,135,17,152
+Offenbach district,Hesse,519,155,674
+Rheingau-Taunus district,Hesse,273,97,370
+Schwalm-Eder district,Hesse,193,237,430
+Vogelsberg district,Hesse,134,129,263
+Waldeck-Frankenberg district,Hesse,295,125,420
+Werra-Meißner district,Hesse,73,93,166
+Wetterau district,Hesse,449,130,579
+"Rostock, independent city",Mecklenburg-Western Pomerania,227,162,389
+Independent city of Schwerin,Mecklenburg-Western Pomerania,107,64,171
+Ludwigslust-Parchim district,Mecklenburg-Western Pomerania,156,182,338
+Mecklenburg Lake District,Mecklenburg-Western Pomerania,313,147,460
+Northwest Mecklenburg district,Mecklenburg-Western Pomerania,143,139,282
+Rostock district,Mecklenburg-Western Pomerania,244,212,456
+Vorpommern-Greifswald district,Mecklenburg-Western Pomerania,215,154,369
+Vorpommern-Rügen district,Mecklenburg-Western Pomerania,545,183,728
+Independent city of Braunschweig,Lower Saxony,976,241,1217
+Independent city of Delmenhorst,Lower Saxony,94,54,148
+"Emden, independent city",Lower Saxony,193,36,229
+Independent city of Oldenburg (Oldb),Lower Saxony,206,178,384
+"Osnabrück, independent city",Lower Saxony,426,163,589
+"Salzgitter, independent city",Lower Saxony,267,72,339
+Independent city of Wilhelmshaven,Lower Saxony,70,50,120
+"Wolfsburg, independent city",Lower Saxony,964,159,1123
+Ammerland district,Lower Saxony,159,133,292
+Aurich district,Lower Saxony,234,149,383
+Celle district,Lower Saxony,257,79,336
+Cloppenburg district,Lower Saxony,382,212,594
+Cuxhaven district,Lower Saxony,174,156,330
+Diepholz district,Lower Saxony,369,183,552
+Emsland district,Lower Saxony,732,409,1141
+Friesland district,Lower Saxony,173,81,254
+Gifhorn district,Lower Saxony,232,74,306
+Goslar district,Lower Saxony,194,113,307
+Göttingen district,Lower Saxony,457,197,654
+County of Bentheim,Lower Saxony,212,157,369
+Hameln-Pyrmont district,Lower Saxony,159,57,216
+Harburg district,Lower Saxony,281,219,500
+Heidekreis district,Lower Saxony,256,303,559
+Helmstedt district,Lower Saxony,64,107,171
+Hildesheim district,Lower Saxony,396,218,614
+Holzminden district,Lower Saxony,77,18,95
+Leer district,Lower Saxony,142,178,320
+Lüchow-Dannenberg district,Lower Saxony,62,23,85
+Lüneburg district,Lower Saxony,303,81,384
+Nienburg (Weser) district,Lower Saxony,197,53,250
+Northeim district,Lower Saxony,246,196,442
+Oldenburg district,Lower Saxony,145,83,228
+Osnabrück district,Lower Saxony,478,253,731
+Osterholz district,Lower Saxony,148,103,251
+Peine district,Lower Saxony,134,109,243
+Hanover Region,Lower Saxony,2727,859,3586
+Rotenburg (Wümme) district,Lower Saxony,234,237,471
+Schaumburg district,Lower Saxony,229,137,366
+Stade district,Lower Saxony,305,86,391
+Uelzen district,Lower Saxony,106,49,155
+Vechta district,Lower Saxony,254,128,382
+Verden district,Lower Saxony,181,135,316
+Wesermarsch district,Lower Saxony,199,50,249
+Wittmund district,Lower Saxony,88,48,136
+Wolfenbüttel district,Lower Saxony,62,81,143
+Borken district,North Rhine-Westphalia,1202,212,1414
+Coesfeld district,North Rhine-Westphalia,353,158,511
+Düren district,North Rhine-Westphalia,591,163,754
+Ennepe-Ruhr district,North Rhine-Westphalia,442,95,537
+Euskirchen district,North Rhine-Westphalia,272,122,394
+Gütersloh district,North Rhine-Westphalia,614,215,829
+Heinsberg district,North Rhine-Westphalia,406,176,582
+Herford district,North Rhine-Westphalia,249,191,440
+Hochsauerland district,North Rhine-Westphalia,439,136,575
+Höxter district,North Rhine-Westphalia,231,124,355
+Kleve district,North Rhine-Westphalia,576,163,739
+Lippe district,North Rhine-Westphalia,419,123,542
+Märkischer Kreis district,North Rhine-Westphalia,537,158,695
+Mettmann district,North Rhine-Westphalia,1073,318,1391
+Minden-Lübbecke district,North Rhine-Westphalia,340,206,546
+Oberbergischer Kreis district,North Rhine-Westphalia,316,161,477
+Olpe district,North Rhine-Westphalia,157,50,207
+Paderborn district,North Rhine-Westphalia,731,250,981
+Recklinghausen district,North Rhine-Westphalia,773,299,1072
+Rhein-Erft district,North Rhine-Westphalia,472,334,806
+Rheinisch-Bergischer Kreis,North Rhine-Westphalia,369,123,492
+Rhein-Kreis Neuss district,North Rhine-Westphalia,710,284,994
+Rhein-Sieg district,North Rhine-Westphalia,703,327,1030
+Siegen-Wittgenstein district,North Rhine-Westphalia,278,182,460
+Soest district,North Rhine-Westphalia,515,223,738
+Aachen City Region,North Rhine-Westphalia,1347,419,1766
+Steinfurt district,North Rhine-Westphalia,668,237,905
+Unna district,North Rhine-Westphalia,620,315,935
+Viersen district,North Rhine-Westphalia,557,166,723
+Warendorf district,North Rhine-Westphalia,445,185,630
+Wesel district,North Rhine-Westphalia,824,336,1160
+Independent city of Bielefeld,North Rhine-Westphalia,468,238,706
+Independent city of Bochum,North Rhine-Westphalia,692,288,980
+Independent city of Bonn,North Rhine-Westphalia,1017,190,1207
+"Bottrop, independent city",North Rhine-Westphalia,194,49,243
+Independent city of Dortmund,North Rhine-Westphalia,1015,352,1367
+Independent city of Duisburg,North Rhine-Westphalia,863,224,1087
+Independent city of Düsseldorf,North Rhine-Westphalia,2336,244,2580
+City of Essen (independent city),North Rhine-Westphalia,968,247,1215
+Independent city of Gelsenkirchen,North Rhine-Westphalia,329,157,486
+Independent city of Hagen,North Rhine-Westphalia,208,98,306
+independent city of Hamm,North Rhine-Westphalia,326,80,406
+Independent city of Herne,North Rhine-Westphalia,131,61,192
+"Cologne, independent city",North Rhine-Westphalia,2128,594,2722
+Independent city of Krefeld,North Rhine-Westphalia,178,101,279
+Independent city of Leverkusen,North Rhine-Westphalia,297,48,345
+Independent city of Mönchengladbach,North Rhine-Westphalia,584,189,773
+Independent city of Mülheim an der Ruhr,North Rhine-Westphalia,263,93,356
+Independent city of Münster,North Rhine-Westphalia,628,146,774
+Independent city of Oberhausen,North Rhine-Westphalia,551,125,676
+"Remscheid, independent city",North Rhine-Westphalia,167,60,227
+"Solingen, independent city",North Rhine-Westphalia,264,96,360
+"Wuppertal, independent city",North Rhine-Westphalia,360,124,484
+Independent city of Frankenthal (Palatinate),Rhineland-Palatinate,52,30,82
+Independent city of Kaiserslautern,Rhineland-Palatinate,187,166,353
+Independent city of Koblenz,Rhineland-Palatinate,230,189,419
+Independent city of Landau in the Palatinate,Rhineland-Palatinate,124,42,166
+Independent city of Ludwigshafen am Rhein,Rhineland-Palatinate,213,132,345
+Independent city of Mainz,Rhineland-Palatinate,466,104,570
+Independent city of Neustadt an der Weinstraße,Rhineland-Palatinate,97,51,148
+Independent city of Pirmasens,Rhineland-Palatinate,27,17,44
+Independent city of Speyer,Rhineland-Palatinate,120,41,161
+Independent city of Trier,Rhineland-Palatinate,131,80,211
+Independent city of Worms,Rhineland-Palatinate,44,63,107
+Independent city of Zweibrücken,Rhineland-Palatinate,96,82,178
+Ahrweiler district,Rhineland-Palatinate,209,74,283
+Altenkirchen district (Westerwald),Rhineland-Palatinate,90,75,165
+Alzey-Worms district,Rhineland-Palatinate,118,96,214
+Bad Dürkheim district,Rhineland-Palatinate,115,78,193
+Bad Kreuznach district,Rhineland-Palatinate,197,90,287
+Bernkastel-Wittlich district,Rhineland-Palatinate,159,104,263
+Birkenfeld district,Rhineland-Palatinate,58,38,96
+Cochem-Zell district,Rhineland-Palatinate,132,25,157
+Donnersberg district,Rhineland-Palatinate,74,37,111
+"Bitburg-Prüm district, Eifel region",Rhineland-Palatinate,130,51,181
+Germersheim district,Rhineland-Palatinate,58,95,153
+Kaiserslautern district,Rhineland-Palatinate,55,71,126
+Kusel district,Rhineland-Palatinate,38,22,60
+Mainz-Bingen district,Rhineland-Palatinate,248,168,416
+Mayen-Koblenz district,Rhineland-Palatinate,285,157,442
+Neuwied district,Rhineland-Palatinate,132,208,340
+Rhein-Hunsrück district,Rhineland-Palatinate,130,125,255
+Rhein-Lahn district,Rhineland-Palatinate,130,53,183
+Rhein-Pfalz district,Rhineland-Palatinate,164,64,228
+Southern Wine Route district,Rhineland-Palatinate,115,59,174
+Southwest Palatinate district,Rhineland-Palatinate,58,34,92
+Trier-Saarburg district,Rhineland-Palatinate,219,79,298
+Vulkaneifel district,Rhineland-Palatinate,167,19,186
+Westerwald district,Rhineland-Palatinate,234,210,444
+Merzig-Wadern district,Saarland,122,65,187
+Neunkirchen district,Saarland,106,44,150
+Saarbrücken District Regional Association,Saarland,359,159,518
+Saarlouis district,Saarland,190,56,246
+Saarpfalz district,Saarland,192,113,305
+St. Wendel district,Saarland,104,50,154
+"Chemnitz, independent city",Saxony,343,205,548
+City of Dresden (independent city),Saxony,783,358,1141
+Independent city of Leipzig,Saxony,1094,288,1382
+Bautzen district,Saxony,372,150,522
+Erzgebirge district,Saxony,369,111,480
+Görlitz district,Saxony,238,79,317
+Leipzig district,Saxony,283,161,444
+Meißen district,Saxony,174,176,350
+Central Saxony district,Saxony,210,157,367
+North Saxony district,Saxony,130,137,267
+Saxon Switzerland-Eastern Ore Mountains district,Saxony,242,134,376
+Vogtland district,Saxony,225,109,334
+Zwickau district,Saxony,572,181,753
+Independent city of Dessau-Roßlau,Saxony-Anhalt,97,38,135
+"City of Halle (Saale), independent city",Saxony-Anhalt,219,132,351
+"Magdeburg, independent city",Saxony-Anhalt,328,236,564
+Altmarkkreis Salzwedel district,Saxony-Anhalt,75,48,123
+Anhalt-Bitterfeld district,Saxony-Anhalt,183,111,294
+Börde district,Saxony-Anhalt,169,164,333
+Burgenland district,Saxony-Anhalt,157,127,284
+Harz district,Saxony-Anhalt,270,145,415
+Jerichower Land district,Saxony-Anhalt,45,40,85
+Mansfeld-Südharz district,Saxony-Anhalt,159,97,256
+Saalekreis district,Saxony-Anhalt,188,94,282
+Salzlandkreis district,Saxony-Anhalt,146,133,279
+Stendal district,Saxony-Anhalt,201,88,289
+Wittenberg district,Saxony-Anhalt,55,46,101
+Dithmarschen district,Schleswig-Holstein,337,76,413
+District of the Duchy of Lauenburg,Schleswig-Holstein,246,107,353
+North Frisia district,Schleswig-Holstein,634,164,798
+Ostholstein district,Schleswig-Holstein,533,237,770
+Pinneberg district,Schleswig-Holstein,392,247,639
+Plön district,Schleswig-Holstein,243,75,318
+Rendsburg-Eckernförde district,Schleswig-Holstein,600,148,748
+Schleswig-Flensburg district,Schleswig-Holstein,462,236,698
+Segeberg district,Schleswig-Holstein,335,200,535
+Steinburg district,Schleswig-Holstein,158,66,224
+Stormarn district,Schleswig-Holstein,418,260,678
+Independent city of Flensburg,Schleswig-Holstein,237,105,342
+Independent city of Kiel,Schleswig-Holstein,443,156,599
+Independent city of Lübeck,Schleswig-Holstein,536,214,750
+Independent city of Neumünster,Schleswig-Holstein,208,90,298
+City of Erfurt (independent city),Thuringia,335,147,482
+Independent city of Gera,Thuringia,142,99,241
+Independent city of Jena,Thuringia,273,60,333
+independent city of Suhl,Thuringia,50,27,77
+Independent city of Weimar,Thuringia,146,54,200
+Altenburger Land district,Thuringia,72,56,128
+Eichsfeld district,Thuringia,147,65,212
+Gotha district,Thuringia,129,115,244
+Greiz district,Thuringia,57,49,106
+Hildburghausen district,Thuringia,74,31,105
+Ilm district,Thuringia,122,96,218
+Kyffhäuser district,Thuringia,55,23,78
+Nordhausen district,Thuringia,51,106,157
+Saale-Holzland district,Thuringia,76,111,187
+Saale-Orla district,Thuringia,81,143,224
+Saalfeld-Rudolstadt district,Thuringia,141,62,203
+Schmalkalden-Meiningen district,Thuringia,142,90,232
+Sömmerda district,Thuringia,48,34,82
+Sonneberg district,Thuringia,60,30,90
+Unstrut-Hainich district,Thuringia,65,84,149
+Wartburgkreis district,Thuringia,244,97,341
+Weimarer Land district,Thuringia,96,87,183
